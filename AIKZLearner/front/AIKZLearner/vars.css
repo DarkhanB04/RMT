@@ -1,0 +1,73 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --primarycolor: #31a0fe;
+  --primarycolorhovered: #1a92d6;
+  --primarycolorpressed: #1176ae;
+  --primarycolortonal: #d4eaf6;
+  --primarycolortonalhovered: #cee6f3;
+  --primarycolortonalpressed: #c5e2f2;
+  --secondarycolor-1: #23856d;
+  --secondarycolor-1-hovered: #1c745e;
+  --secondarycolor-1-pressed: #165949;
+  --secondarycolortonal-1: #d6f1cc;
+  --secondarycolortonal-1-hovered: #cbeac1;
+  --secondarycolortonal-1-pressed: #c4e4b9;
+  --secondarycolor-2: #ec5c2e;
+  --secondarycolor-2-hovered: #d75228;
+  --secondarycolor-2-pressed: #b94824;
+  --secondarycolortonal-2: #f3dcd5;
+  --secondarycolortonal-2-hovered: #efd5cc;
+  --secondarycolortonal-2-pressed: #f0d1c6;
+  --gradientcolor-1: linear-gradient(
+    90deg,
+    rgba(37, 189, 254, 1) 0%,
+    rgba(36, 40, 163, 1) 100%
+  );
+  --gradientcolor-2: linear-gradient(
+    90deg,
+    rgba(28, 244, 16, 1) 0%,
+    rgba(193, 212, 110, 1) 100%
+  );
+  --gradientcolor-3: linear-gradient(
+    90deg,
+    rgba(138, 90, 226, 1) 0%,
+    rgba(194, 75, 231, 1) 100%
+  );
+  --gradientcolor-4: linear-gradient(
+    90deg,
+    rgba(209, 10, 80, 1) 0%,
+    rgba(64, 37, 121, 1) 100%
+  );
+  --successcolor: #2dc071;
+  --infoscolor: #1fc4f8;
+  --warningcolor: #e77c40;
+  --dangercolor: #e74040;
+  --textcolor: #252b42;
+  --secondtextcolor: #737373;
+  --mutedcolor: #bdbdbd;
+  --lightgray-1: #e3e3e3;
+  --lightgray-2: #ececec;
+  --lighttextcolor: #ffffff;
+  --darkbackgroundcolor: #252b42;
+  --lightbackgroundcolor: #ffffff;
+
+  /* Fonts */
+  --h-1: 800 48px/60px "OpenSans-ExtraBold", sans-serif;
+  --h-2: 700 40px/57px "OpenSans-Bold", sans-serif;
+  --h-3: 700 24px/32px "OpenSans-Bold", sans-serif;
+  --h-4: 400 20px/30px "OpenSans-Regular", sans-serif;
+  --h-5: 700 16px/24px "Montserrat-Bold", sans-serif;
+  --h-6: 600 14px/24px "Montserrat-SemiBold", sans-serif;
+  --btn-text: 700 14px/28px "Montserrat-Bold", sans-serif;
+  --paragraph: 400 14px/20px "Montserrat-Regular", sans-serif;
+  --list: 400 20px/30px "Montserrat-Regular", sans-serif;
+  --link: 600 14px/24px "Montserrat-SemiBold", sans-serif;
+  --small: 400 12px/16px "Montserrat-Regular", sans-serif;
+
+  /* Effects */
+  --accentuatedropshadow-box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+  --dramaticdropshadow-box-shadow: -31px -22px 19px 0px rgba(0, 0, 0, 0.3);
+  --lightdropshadow-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+  --textdropshadow-box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.24);
+}

@@ -1,0 +1,193 @@
+.,
+. * {
+  box-sizing: border-box;
+}
+. {
+  background: var(--light-background, #ffffff);
+  width: 1440px;
+  height: 1758px;
+  position: relative;
+  overflow: hidden;
+}
+.2 {
+  color: var(--text-color, #252b42);
+  text-align: left;
+  font: var(--h-2, 700 40px/57px "OpenSans-Bold", sans-serif);
+  position: absolute;
+  left: 90px;
+  top: 90px;
+}
+.3 {
+  color: #252b42;
+  text-align: left;
+  font: var(--h-3, 700 24px/32px "OpenSans-Bold", sans-serif);
+  position: absolute;
+  left: 224px;
+  top: 205px;
+  width: 111px;
+  height: 36px;
+}
+.4 {
+  color: #252b42;
+  text-align: left;
+  font: 400 16px/24px "Montserrat-Regular", sans-serif;
+  position: absolute;
+  left: 224px;
+  top: 256px;
+  width: 468px;
+  height: 106px;
+}
+.text-large-text-button {
+  padding: 10px 32px 10px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1096px;
+  top: 119px;
+}
+.button {
+  color: var(--text-color, #252b42);
+  text-align: left;
+  font: var(--btn-text, 700 14px/28px "Montserrat-Bold", sans-serif);
+  position: relative;
+}
+._10112022080426-499-1 {
+  width: 568.94px;
+  height: 36px;
+  position: absolute;
+  left: 32px;
+  top: -132px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.rectangle-48 {
+  background: #ededed;
+  border-radius: 19px;
+  width: 1254px;
+  height: 67px;
+  position: absolute;
+  left: 93px;
+  top: 1537px;
+}
+.ellipse-1 {
+  background: #252b42;
+  border-radius: 50%;
+  width: 28px;
+  height: 26px;
+  position: absolute;
+  left: 1239px;
+  top: 1548px;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 18px;
+  height: 17px;
+  position: absolute;
+  left: 1244px;
+  top: 1553px;
+}
+.rectangle-49 {
+  background: #252b42;
+  border-radius: 20px;
+  width: 7.66px;
+  height: 26.34px;
+  position: absolute;
+  left: 1254.96px;
+  top: 1571.85px;
+  transform-origin: 0 0;
+  transform: rotate(-32.641deg) scale(1, 1);
+}
+.rectangle-50 {
+  background: #252b42;
+  border-radius: 5px;
+  width: 4px;
+  height: 37px;
+  position: absolute;
+  left: 117px;
+  top: 1553px;
+}
+.ellipse-3 {
+  background: #8dbadb;
+  border-radius: 50%;
+  width: 115px;
+  height: 116px;
+  position: absolute;
+  left: 90px;
+  top: 196px;
+}
+.ellipse-4 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 107px;
+  height: 104px;
+  position: absolute;
+  left: 94px;
+  top: 202px;
+}
+.man-with-ok-gesture-showing-business-charts-in-laptop-screen-4929412-4122896-1 {
+  width: 98px;
+  height: 102px;
+  position: absolute;
+  left: 100px;
+  top: 203px;
+}
+.rectangle-51 {
+  background: #8dbadb;
+  border-radius: 5px;
+  width: 38px;
+  height: 10px;
+  position: absolute;
+  left: 129px;
+  top: 299px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: var(--text-color, #252b42);
+  border-width: 1px 0 0 0;
+  width: 1193.01px;
+  height: 0px;
+  position: absolute;
+  left: 100px;
+  top: 344.02px;
+  transform-origin: 0 0;
+  transform: rotate(-0.241deg) scale(1, 1);
+}
+.rectangle-52 {
+  background: #252b42;
+  border-radius: 30px;
+  width: 14px;
+  height: 34px;
+  position: absolute;
+  left: 1297px;
+  top: 1547px;
+}
+.rectangle-53 {
+  background: #252b42;
+  border-radius: 10px;
+  width: 34px;
+  height: 3px;
+  position: absolute;
+  left: 1287px;
+  top: 1581px;
+}
+.rectangle-54 {
+  background: #d9d9d9;
+  width: 13px;
+  height: 1px;
+  position: absolute;
+  left: 1297px;
+  top: 1581px;
+}
+.rectangle-55 {
+  border-radius: 0px;
+  width: 10px;
+  height: 7px;
+  position: absolute;
+  left: 1299px;
+  top: 1585px;
+  overflow: visible;
+}
